@@ -1,0 +1,1 @@
+# 本倉庫以問答方式，利用GPT學習PostgreSQL
